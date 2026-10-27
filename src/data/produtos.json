@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nome": "Brigadeiro Gourmet",
+    "descricao": "Brigadeiro tradicional com granulado de chocolate belga.",
+    "preco": 4.50,
+    "imagem": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=500"
+  },
+  {
+    "id": 2,
+    "nome": "Bolo de Pote Ninho com Nutella",
+    "descricao": "Camadas intercaladas de bolo fofo e recheio cremoso.",
+    "preco": 12.00,
+    "imagem": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=500"
+  },
+  {
+    "id": 3,
+    "nome": "Cupcake Red Velvet",
+    "descricao": "Massa aveludada com cobertura de cream cheese.",
+    "preco": 8.50,
+    "imagem": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?w=500"
+  },
+  {
+    "id": 4,
+    "nome": "Coxinha de Morango",
+    "descricao": "Morango fresco envolto em brigadeiro de leite ninho.",
+    "preco": 7.00,
+    "imagem": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=500"
+  },
+  {
+    "id": 5,
+    "nome": "Torta de Limão",
+    "descricao": "Fatia de torta crocante com creme de limão e merengue.",
+    "preco": 10.50,
+    "imagem": "https://images.unsplash.com/photo-1519869325930-281384150729?w=500"
+  },
+  {
+    "id": 6,
+    "nome": "Brownie Recheado",
+    "descricao": "Brownie de chocolate meio amargo com recheio de doce de leite.",
+    "preco": 9.00,
+    "imagem": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500"
+  },
+  {
+    "id": 7,
+    "nome": "Macarons Sortidos",
+    "descricao": "Caixa com 4 unidades de macarons coloridos e recheados.",
+    "preco": 15.00,
+    "imagem": "https://images.unsplash.com/photo-1569864358642-9d1684040f43?w=500"
+  },
+  {
+    "id": 8,
+    "nome": "Pudim de Leite Condensado",
+    "descricao": "Fatia individual de pudim cremoso com calda de caramelo.",
+    "preco": 6.50,
+    "imagem": "https://images.unsplash.com/photo-1528975604071-b4dc52a2d18c?w=500"
+  }
+]
